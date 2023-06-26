@@ -18,6 +18,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
+ 
       - name: Notify Slack and send eMail
-        run: echo " Email sent to notify "
+        run: echo " Email sent to notify 123 "
